@@ -1,2 +1,0 @@
-C:\Users\Jesner romero\Music\programacionFRESHDENT\programacionFRESHDENT\capaNegocio\obj\Debug\capaNegocio.csprojAssemblyReference.cache
-C:\Users\Jesner romero\Music\programacionFRESHDENT\programacionFRESHDENT\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache

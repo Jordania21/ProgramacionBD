@@ -1,5 +1,0 @@
-C:\Users\Jesner romero\Music\programacionFRESHDENT\programacionFRESHDENT\capapresentacionexpediente\obj\Release\capapresentacionexpediente.csprojAssemblyReference.cache
-C:\Users\Jesner romero\Music\programacionFRESHDENT\programacionFRESHDENT\capapresentacionexpediente\obj\Release\capapresentacionexpediente.Form1.resources
-C:\Users\Jesner romero\Music\programacionFRESHDENT\programacionFRESHDENT\capapresentacionexpediente\obj\Release\capapresentacionexpediente.Properties.Resources.resources
-C:\Users\Jesner romero\Music\programacionFRESHDENT\programacionFRESHDENT\capapresentacionexpediente\obj\Release\capapresentacionexpediente.csproj.GenerateResource.cache
-C:\Users\Jesner romero\Music\programacionFRESHDENT\programacionFRESHDENT\capapresentacionexpediente\obj\Release\capapresentacionexpediente.csproj.CoreCompileInputs.cache
